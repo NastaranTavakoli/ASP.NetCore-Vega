@@ -1,0 +1,12 @@
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\nasta\Desktop\ASP .Net Core\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
