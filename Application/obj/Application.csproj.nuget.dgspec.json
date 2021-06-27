@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\application\\Application.csproj": {}
+    "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\application\\Application.csproj": {
+    "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\application\\Application.csproj",
+        "projectUniqueName": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\application\\Application.csproj",
+        "projectPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\nasta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\application\\obj\\",
+        "outputPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nasta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,14 +27,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\Core.csproj"
+              "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Core\\Core.csproj": {
+                "projectPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Core\\Core.csproj"
               },
-              "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\infrastructure\\Infrastructure.csproj"
+              "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\infrastructure\\Infrastructure.csproj"
               },
-              "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Persistence\\Persistence.csproj"
+              "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\Core.csproj": {
+    "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\Core.csproj",
+        "projectPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\nasta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\obj\\",
+        "outputPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nasta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\infrastructure\\Infrastructure.csproj": {
+    "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\nasta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\infrastructure\\obj\\",
+        "outputPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nasta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,8 +162,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\Core.csproj"
+              "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\core\\Core.csproj": {
+                "projectPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\core\\Core.csproj"
               }
             }
           }
@@ -195,14 +195,14 @@
         }
       }
     },
-    "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Persistence\\Persistence.csproj": {
+    "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\nasta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Persistence\\obj\\",
+        "outputPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nasta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -218,8 +218,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Core\\Core.csproj"
+              "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Core\\Core.csproj": {
+                "projectPath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Core\\Core.csproj"
               }
             }
           }

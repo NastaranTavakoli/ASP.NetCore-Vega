@@ -29,9 +29,5 @@ namespace Infrastructure
 
             return photo;
         }
-
-
-
-
     }
 }

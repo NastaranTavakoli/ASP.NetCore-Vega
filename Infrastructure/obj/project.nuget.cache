@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qrbodDRGiDU/S/hs/Dk8H1jyqnK6YUAHCVv4Rpq16FlhW2Zv/78S0NIDCHeZZoPPsx8QW8W74l+/wFGx9otGMA==",
+  "dgSpecHash": "ryP8TFezxgwdLzdhGRwnyAdEQxww9esQOGfcHypJzvNg7IwJ/1afpQR9cqtQeHaV11K5qsW4BeAXdP6TXxLqXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasta\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\nasta\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

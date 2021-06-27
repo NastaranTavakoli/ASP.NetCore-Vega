@@ -15,7 +15,6 @@ namespace Persistence.Repositories
         public VehicleRepository(DataContext context)
         {
             this.context = context;
-
         }
         public async Task<Vehicle> GetVehicle(int id, bool includeRelated = true)
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QPcNytDoRLEokHcFM4npRoZxbxQaP5hEMZl3ja2nSdMN4n+l/7LjZpH7/A40839RPG2FgyzgL0HeBLzOS7O2Pg==",
+  "dgSpecHash": "YZAnpSEZ2cBuuxb16vh0ojELXKakrFV7BrN9k5k/r/jezXVcjqrrHehtu53Riw09ZeitgBenN12HCclaaNCseg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\application\\Application.csproj",
+  "projectFilePath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasta\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\nasta\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

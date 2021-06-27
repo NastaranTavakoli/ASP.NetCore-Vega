@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XNJF8SHlaaMk964q04OAPijTK6u0RSj4YDjrfu59Ta5G/AlrGmAxhgT0RRu/bBhgZ1tsxPXVXM7zBF6sTVrwdg==",
+  "dgSpecHash": "4f8zL9UXj1Eoex2nMNgjYwJNIEMQANWTvfc8rlznllOzgiCg2+vgkWOMO2sZZQWqZUglmLYYU7gP0W+Upk+AYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nasta\\Desktop\\ASP .Net Core\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Nas\\Work\\Courses\\DotNet EF\\Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+) 2018-4\\My proj\\ASP .Net Core-Nas\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasta\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\nasta\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
